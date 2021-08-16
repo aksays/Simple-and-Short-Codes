@@ -23,4 +23,4 @@ Rough formula - 'youtube-dl --external-downloader ffmpeg --external-downloader-a
 Original formula - '=CONCATENATE(E2," ",C2," -to ",D2,CHAR(34)," -f best ",CHAR(34),B2,CHAR(34)," -o ",A2,".mp4")'
 
 open the destination folder, where you want the video files to be downloaded - open cmd in that folder
-Copy the original formula cell and paste it in cmd.
+Copy the original formula cell and paste it in cmd. 
